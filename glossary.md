@@ -5,7 +5,9 @@ Write a paragraph explaining the term below, including 2-3 relevent links to mor
 
 
 ## HTML
-
+The standard language for creating and organizing web information is HTML (Hypertext Markup Language). Using tags and attributes, it specifies the components and organization of a webpage, including headings, paragraphs, images, links, and other kinds of information. The foundation of web development is HTML, which makes it possible for browsers to display material correctly. Anyone wishing to create websites or comprehend how the internet functions has to know the language, which is quite easy to learn.
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://html.com/
 ## CSS
 
 
